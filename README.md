@@ -62,7 +62,7 @@ This dataset contains motor vehicle sales data across **various counties in Colo
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/AgnideepPoddar/Colorado-Motor-Vehicle-Sales-Analysis.git
+   git clone https://github.com/AgnideepPoddar/Colorado-Motor-Vehicle-Sales-Data.git
    ```  
 2. Run the analysis scripts to explore insights.  
 
